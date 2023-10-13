@@ -91,6 +91,7 @@ section {
   top: 50%;
   left: 35%;
   transform: translateX(0%) translateY(-45%);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
 }
 
 .banner-text h2 {
@@ -106,7 +107,7 @@ section {
   padding: 7px;
   margin-top: 10px;
   border: 3px solid rgb(226, 222, 222);
-  text-shadow: 2px 2px 4px #000000;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
   text-align: center;
 }
 
