@@ -106,6 +106,7 @@ section {
   padding: 7px;
   margin-top: 10px;
   border: 3px solid rgb(226, 222, 222);
+  text-shadow: 2px 2px 4px #000000;
   text-align: center;
 }
 
