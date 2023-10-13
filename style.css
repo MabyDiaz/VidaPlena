@@ -91,7 +91,6 @@ section {
   top: 50%;
   left: 35%;
   transform: translateX(0%) translateY(-45%);
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
 }
 
 .banner-text h2 {
@@ -102,7 +101,7 @@ section {
 .banner-text a {
   display: block;
   width: 100px;
-  color: rgb(226, 222, 222);
+  color: grey;
   text-decoration: none;
   padding: 7px;
   margin-top: 10px;
